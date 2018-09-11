@@ -1,0 +1,4 @@
+/Users/vishwatejareddy/CLionProjects/APT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vishwatejareddy/CLionProjects/APT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vishwatejareddy/CLionProjects/APT/cmake-build-debug/CMakeFiles/SOIL2.dir
+/Users/vishwatejareddy/CLionProjects/APT/cmake-build-debug/CMakeFiles/APT.dir

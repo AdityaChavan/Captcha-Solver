@@ -1,0 +1,3 @@
+/Users/vishwatejareddy/CLionProjects/APT/CMakeFiles/rebuild_cache.dir
+/Users/vishwatejareddy/CLionProjects/APT/CMakeFiles/edit_cache.dir
+/Users/vishwatejareddy/CLionProjects/APT/CMakeFiles/APT.dir
